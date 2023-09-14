@@ -10,5 +10,5 @@ A Two Step Assembler written as part of C Lab course as a Final Project, written
 * table: Used during all phase, a HashTable that used used to store macros or symbols depending on the phase, see table.h for more.
 * utils: Helper functions used throughout the project, see utils.h for function defnitions.
 
-# Credits
+## Credits
 Shay Linzberg
