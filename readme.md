@@ -1,6 +1,6 @@
 A Two Step Assembler written as part of C Lab course as a Final Project, written in ubuntu linux.
 
-## Modules in this project:
+### Modules in this project:
 * assembler: The Main of the project, gets file (one or more) and runs 3 phases on them: preprocessor, first_run and second_run.
 * preprocessor: The preprocessor phase, see preprocessor.h for more.
 * first_run: The first run phase, see first_run.h for more.
